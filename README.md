@@ -1,2 +1,2 @@
 # BrickBreak-Game-
-A simple BrickBreak 
+A simple BrickBreak game.
